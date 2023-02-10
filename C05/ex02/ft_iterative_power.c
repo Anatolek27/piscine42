@@ -24,7 +24,7 @@ int main(void)
 	int nb;
 	int power;
 
-	nb = 0;
+	nb = 2;
 	power = 23;
 	printf("%d\n", ft_iterative_power(nb, power));
 	return(0);
